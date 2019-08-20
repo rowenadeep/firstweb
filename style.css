@@ -1,0 +1,47 @@
+
+ul {
+	display: block;
+	width: 15%;
+	height: 150%;
+	background-color: lavender;
+	position: fixed;
+	list-style-type: none;
+
+
+	
+}
+
+ul li a {
+	margin: 20px;
+	border: 20px;
+	padding: 20px;
+}
+
+#p1 {
+	background-color: gold;
+	background-position: right bottom, left right;
+	background-repeat: no-repeat, repeat;
+	padding: 10px; 
+
+}
+
+h1 {
+	font-size: 
+	color:;
+	text-align: ;
+	padding: 
+	margin: 0;
+} 
+
+.h1span {
+	border: 12px dotted black;
+	padding: 5px;
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 20px;
+	background-color: #efefef;
+	padding: 10px;
+	margin: 0;
+}
